@@ -21,6 +21,6 @@
 Gosto muito de desenvolver atuando nas áreas de Back-End e Banco de Dados 
 e sou muito disposto e adepto a qualquer nova tecnologia ou ferramenta que me 
 for apresentada e sou cheio de vontade de aprender coisas novas para expandir meu
-conhecimento e capacidades técnicas e pessoais.
+conhecimento e capacidades técnicas e pessoais 🧑‍💻
 
 
