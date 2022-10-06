@@ -26,7 +26,7 @@
 ## Contato
 
 <div>
-<a href="mailto:luismiguelsaldanha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" targe=" _blank"></a>
+<a href="mailto:luismiguelsaldanha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" target=" _blank"></a>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisduarte9/)
 </div>
