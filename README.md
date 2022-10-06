@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisduarte9/)
 
-![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&show_icons=true&theme=highcontrast)
+
 
 ### Tecnologias as quais tenho mais afinidade
 
