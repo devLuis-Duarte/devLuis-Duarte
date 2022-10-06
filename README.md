@@ -23,7 +23,7 @@
 
 <br>
 
-## Contato:
+## Contato
 
 <div>
 <a href="mailto:luismiguelsaldanha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" targe=" _blank"></a>
