@@ -1,11 +1,15 @@
-### Olá, eu sou o Luís Duarte 👋
+### Olá, eu sou o Luís Duarte Gosto muito de desenvolver atuando nas áreas de Back-End e
+### Banco de Dados, sou muito disposto e adepto a qualquer nova tecnologia ou ferramenta 
+### que me for apresentada e sou cheio de vontade de aprender coisas novas para expandir
+### meu conhecimento e capacidades técnicas e pessoais 🧑‍💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisduarte9/)
+<br>
 
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLuis-Duarte)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias as quais tenho mais afinidade
+### Tecnologias que tenho mais afinidade
 
 <div style="display: inline_block">
 <br>
@@ -16,11 +20,13 @@
     <img algin="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
      <img algin="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 <br>
 
-Gosto muito de desenvolver atuando nas áreas de Back-End e Banco de Dados 
-e sou muito disposto e adepto a qualquer nova tecnologia ou ferramenta que me 
-for apresentada e sou cheio de vontade de aprender coisas novas para expandir meu
-conhecimento e capacidades técnicas e pessoais 🧑‍💻
+## Contato:
 
+<div>
+<a href="mailto:luismiguelsaldanha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" targe=" _blank"></a>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisduarte9/)
+</div>
