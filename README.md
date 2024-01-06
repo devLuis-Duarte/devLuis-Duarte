@@ -33,8 +33,27 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,php,mysql," /><br>
 </div>
 
+<br/>
 <hr/>
 
-![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&show_icons=true&theme=highcontrast&rank_icon=github)
+<h2 align="center">Stats</h2>
+<br/>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=devLuis-Duarte" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLuis-Duarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devLuis-Duarte&layout=compact&card_width=300" />
+</a>
+<div/>
+
+<br/>
+
+<a>
+  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devLuis-Duarte&count_private=true" alt="streak stats"/>
+</a>
+
+<br/><br/>
+
+<hr/>
