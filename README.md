@@ -1,33 +1,40 @@
-### Olá, eu sou o Luís Duarte Gosto muito de desenvolver atuando nas áreas de Back-End e
-### Banco de Dados, sou muito disposto e adepto a qualquer nova tecnologia ou ferramenta 
-### que me for apresentada e sou cheio de vontade de aprender coisas novas para expandir
-### meu conhecimento e capacidades técnicas e pessoais 🧑‍💻
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devLuis-Duarte.devLuis-Duarte" />
 
-<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+o+Luís+Duarte!;" />
+</h1>
 
-![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&show_icons=true&theme=highcontrast)
+<h3 align="center">
+ Gosto muito de desenvolver nas áreas de Back-End e Banco de Dados
+ sou muito disposto e adepto a qualquer nova tecnologia ou ferramenta 
+ que me for apresentada e sou cheio de vontade de aprender coisas novas
+ para expandir meu conhecimento e capacidades técnicas e pessoais 🧑‍💻
+</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLuis-Duarte)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-### Tecnologias que tenho mais afinidade
-
-<div style="display: inline_block">
-<br>
-    <img algin="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img algin="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img algin="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img algin="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img algin="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img algin="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img algin="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div align="center"> 
+  <a href="mailto:luismiguelsaldanha9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/luisduarte9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-<br>
+ <hr/>
 
-## Contato
+<br/>
 
-<div>
-<a href="mailto:luismiguelsaldanha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" target=" _blank"></a>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisduarte9/)
+<h2 align="center">Tecnologias que tenho mais afinidade</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,php,mysql," /><br>
 </div>
+
+<hr/>
+
+![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&show_icons=true&theme=highcontrast&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLuis-Duarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
