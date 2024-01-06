@@ -40,18 +40,18 @@
 <br/>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api?username=devLuis-Duarte" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=devLuis-Duarte" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devLuis-Duarte&layout=compact&card_width=300" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devLuis-Duarte&layout=compact&card_width=300" />
 </a>
 <div/>
 
 <br/>
 
 <a>
-  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devLuis-Duarte&count_private=true" alt="streak stats"/>
+  <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devLuis-Duarte&count_private=true" alt="streak stats"/>
 </a>
 
 <br/><br/>
