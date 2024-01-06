@@ -36,7 +36,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br/>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
