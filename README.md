@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&include_all_commits=true" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=devLuis-Duarte&rank_icon=github" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
